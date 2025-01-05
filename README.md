@@ -27,7 +27,8 @@ Aquí tienes una lista de las áreas y tecnologías en las que tengo experiencia
 
 ¡Gracias por visitar mi perfil! 🚀  
 
-![imgOfi](https://github.com/user-attachments/assets/7579a3ca-f4ea-44e6-8fdf-825d024f45b3)
+![Laptop Mockup](https://github.com/user-attachments/assets/91eda470-5e72-43bd-b52a-9cc689efc2d5)
+
 
 
 
