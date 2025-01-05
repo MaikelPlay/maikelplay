@@ -27,7 +27,7 @@ Aquí tienes una lista de las áreas y tecnologías en las que tengo experiencia
 
 ¡Gracias por visitar mi perfil! 🚀  
 
-![Laptop Mockup](https://github.com/user-attachments/assets/91eda470-5e72-43bd-b52a-9cc689efc2d5)
+![Blacks Smartphone Screen Mockup](https://github.com/user-attachments/assets/90691ca7-af8e-4247-9c00-743e0f48e580)
 
 
 
