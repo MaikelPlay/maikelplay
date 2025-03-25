@@ -2,7 +2,7 @@
 Me llamo Maikel y soy Desarrollador FullStack.
 
 ## Sobre mí  
-Soy un apasionado de la tecnología y el aprendizaje continuo. Me considero una persona proactiva, con una actitud positiva y perseverante. Disfruto enfrentando nuevos desafíos y colaborando en equipo, ya que creo que el trabajo conjunto siempre trae los mejores resultados. Estoy constantemente buscando oportunidades para mejorar mis habilidades y explorar nuevas tecnologías.  
+Soy un apasionado de la tecnología y el aprendizaje continuo. Me considero una persona proactiva, con una actitud positiva y perseverante. Disfruto enfrentando nuevos desafíos y colaborando en equipo, ya que creo que el trabajo conjunto siempre trae los mejores resultados. Me enfoco en mantenerme actualizado, formándome constantemente en los frameworks más recientes, adaptándome a las nuevas tecnologías conforme evolucionan.
 
 ## Habilidades  
 Aquí tienes una lista de las áreas y tecnologías en las que tengo experiencia:  
