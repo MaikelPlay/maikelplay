@@ -8,8 +8,8 @@ Soy un apasionado de la tecnología y el aprendizaje continuo. Me considero una 
 Aquí tienes una lista de las áreas y tecnologías en las que tengo experiencia:  
 
 ### 🌐 Diseño y Desarrollo Web  
-- **Frontend**: HTML, CSS, JavaScript, React  
-- **Backend**: PHP, MySQL, PostgreSQL, Java  
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap  
+- **Backend**: PHP, SQL, phpMyAdmin, Java  
 - **CMS**: WordPress  
 
 ### 🛠️ Herramientas y Metodologías  
