@@ -1,5 +1,5 @@
 # ¡Hola! 👋  
-Me llamo Maikel y soy desarrollador web fullstack.
+Me llamo Maikel y soy Desarrollador FullStack.
 
 ## Sobre mí  
 Soy un apasionado de la tecnología y el aprendizaje continuo. Me considero una persona proactiva, con una actitud positiva y perseverante. Disfruto enfrentando nuevos desafíos y colaborando en equipo, ya que creo que el trabajo conjunto siempre trae los mejores resultados. Estoy constantemente buscando oportunidades para mejorar mis habilidades y explorar nuevas tecnologías.  
