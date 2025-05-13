@@ -10,7 +10,7 @@ Aquí tienes una lista de las áreas y tecnologías en las que tengo experiencia
 ### 🌐 Diseño y Desarrollo Web  
 - **Frontend**: HTML, CSS, JavaScript, React, Bootstrap  
 - **Backend**: PHP, SQL, phpMyAdmin, Java  
-- **CMS**: WordPress  
+- **CMS**: WordPress + Constructores {Divi, Elementor}
 
 ### 🛠️ Herramientas y Metodologías  
 - Git y GitHub para control de versiones.  
