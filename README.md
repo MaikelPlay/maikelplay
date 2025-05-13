@@ -20,9 +20,9 @@ Aquí tienes una lista de las áreas y tecnologías en las que tengo experiencia
 - Metodologías ágiles para proyectos colaborativos.
 
 ### 🧩 Soft Skills  
-- Trabajo en equipo.  
-- Resolución de problemas.  
-- Gestión del tiempo.  
+- Trabajo en equipo.
+- Creatividad  
+- Resolución de problemas.    
 - Actitud positiva y aprendizaje continuo.  
 
 ¡Gracias por visitar mi perfil! 🚀  
