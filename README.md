@@ -1,16 +1,16 @@
 # ¡Hola! 👋  
-Me llamo Maikel y soy Desarrollador FullStack.
+Me llamo Maikel y soy Desarrollador especializado en la Ciberseguridad.
 
 ## Sobre mí  
-Soy un apasionado de la tecnología y el aprendizaje continuo. Me considero una persona proactiva, con una actitud positiva y perseverante. Disfruto enfrentando nuevos desafíos y colaborando en equipo, ya que creo que el trabajo conjunto siempre trae los mejores resultados. Me enfoco en mantenerme actualizado, formándome constantemente en los frameworks más recientes, adaptándome a las nuevas tecnologías conforme evolucionan.
+Soy un apasionado de la tecnología y el aprendizaje continuo. Me considero una persona proactiva, con una actitud positiva y perseverante. Disfruto enfrentando nuevos desafíos y colaborando en equipo, ya que creo que el trabajo conjunto siempre trae los mejores resultados. Me enfoco en mantenerme actualizado, formándome constantemente y adaptándome a las nuevas tecnologías conforme evolucionan.
 
 ## Habilidades  
 Aquí tienes una lista de las áreas y tecnologías en las que tengo experiencia:  
 
 ### 🌐 Diseño y Desarrollo Web  
-- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap;
-- **Backend**: PHP, SQL, phpMyAdmin, Java;  
-- **CMS**: WordPress + Constructores {Divi, Elementor};
+- **Frontend**: Typescript, JavaScript, React, Bootstrap, Vibecoding con Kiro, Cursor, Antigravity;
+- **Backend**: PHP, SQL, phpMyAdmin, Supabase, Java, Plesk, Cpanel;  
+- **CMS**: WordPress + Constructores {Elementor, Divi, Gutenberg};
 
 ### 🛠️ Herramientas y Metodologías  
 - Git y GitHub para control de versiones.  
